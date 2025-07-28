@@ -21,8 +21,6 @@ transformá-los em soluções práticas e eficientes.
 - CCNAv7 na Academia Unitel (2024)
 - Primeiro Ano em Engenharia Informática (2024/2025)
 
-Bom conhecimen
-
 **Tech Stack**
 
 **My Love**
